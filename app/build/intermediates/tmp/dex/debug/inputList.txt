@@ -1,0 +1,9 @@
+/Users/renesignoret/AndroidStudioProjects/Test/app/build/intermediates/classes/debug
+/Users/renesignoret/AndroidStudioProjects/Test/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-49ab8055fc0cdbdb6f4954f45c7b4a1ddf78ddca.jar
+/Users/renesignoret/AndroidStudioProjects/Test/app/build/intermediates/pre-dexed/debug/robospice-cache-1.4.14-bf89623e096201a5ee278a0c5b467bc24530bb23.jar
+/Users/renesignoret/AndroidStudioProjects/Test/app/build/intermediates/pre-dexed/debug/robospice-1.4.14-4f0f7ac561f4a032de091d9a845a1c6961022ff8.jar
+/Users/renesignoret/AndroidStudioProjects/Test/app/build/intermediates/pre-dexed/debug/commons-io-1.3.2-827afb685ff4fd701124c822c41dbdd48daca4fe.jar
+/Users/renesignoret/AndroidStudioProjects/Test/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-52471249b0a5e97caf74b454a16e31a802d1300a.jar
+/Users/renesignoret/AndroidStudioProjects/Test/app/build/intermediates/pre-dexed/debug/commons-lang3-3.3.2-6377411b3fc898a45ed3c228571dc1ed5f425778.jar
+/Users/renesignoret/AndroidStudioProjects/Test/app/build/intermediates/pre-dexed/debug/classes-c44e9383191c6504525e044fd3e5ad786e19c290.jar
+/Users/renesignoret/AndroidStudioProjects/Test/app/build/intermediates/pre-dexed/debug/classes-26e6c607c1a16aaf4659d7750def3bd7cc221b1d.jar
